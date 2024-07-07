@@ -1,7 +1,3 @@
-Here's how you can structure the README.md file for your Git repository, covering both EEGNet and TSCeption approaches:
-
----
-
 # EEG Classification using EEGNet and TSCeption
 
 ## Introduction

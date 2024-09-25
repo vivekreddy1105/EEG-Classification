@@ -1,4 +1,4 @@
-# EEG Classification using EEGNet and TSCeption
+# EEG Classification using EEGNet
 
 ## Introduction
 This repository implements two deep learning models, EEGNet and TSCeption, for the classification of cognitive states using EEG data. EEG (Electroencephalography) is a non-invasive technique that measures electrical activity in the brain, making it valuable for understanding brain function during different cognitive tasks. The goal is to classify EEG data into distinct cognitive states based on advanced deep learning techniques.
